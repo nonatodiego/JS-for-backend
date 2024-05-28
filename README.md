@@ -4,7 +4,7 @@ Este repositório contém os materiais e exercícios do curso de JavaScript sobr
 
 ## Aulas
 
-- [Variáveis](https://github.com/nonatodiego/JS-for-backend/blob/main/variavel.js)
+- [Variáveis](https://github.com/nonatodiego/JS-for-backend/blob/main/variaveis.js)
 - [Escopo](https://github.com/nonatodiego/JS-for-backend/blob/main/escopo.js) 
 - [Tipo de Strings](https://github.com/nonatodiego/JS-for-backend/blob/main/tipo-string.js)
 - [Tipo de Números](https://github.com/nonatodiego/JS-for-backend/blob/main/tipo-numero.js)
