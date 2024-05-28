@@ -4,12 +4,12 @@ Este repositório contém os materiais e exercícios do curso de JavaScript sobr
 
 ## Aulas
 
-- [Variáveis](/w:/Alura/Js-tipos-variaveis-e-funcoes/variaveis.md)
-- [Escopo](/w:/Alura/Js-tipos-variaveis-e-funcoes/escopo.md)
-- [Tipo de Strings](/w:/Alura/Js-tipos-variaveis-e-funcoes/tipo-strings.md)
-- [Tipo de Números](/w:/Alura/Js-tipos-variaveis-e-funcoes/tipo-numeros.md)
-- [Tipo Boolean](/w:/Alura/Js-tipos-variaveis-e-funcoes/tipo-boolean.md)
-- [Tipo null e undefined](/w:/Alura/Js-tipos-variaveis-e-funcoes/tipo-null-e-undefined.md)
+- [Variáveis](https://github.com/nonatodiego/JS-for-backend/blob/main/variavel.js)
+- [Escopo](https://github.com/nonatodiego/JS-for-backend/blob/main/escopo.js) 
+- [Tipo de Strings](https://github.com/nonatodiego/JS-for-backend/blob/main/tipo-string.js)
+- [Tipo de Números](https://github.com/nonatodiego/JS-for-backend/blob/main/tipo-numero.js)
+- [Tipo Boolean](https://github.com/nonatodiego/JS-for-backend/blob/main/tipos-variaveis-e-funcoes.js)
+- [Tipo null e undefined](https://github.com/nonatodiego/JS-for-backend/blob/main/tipos-variaveis-e-funcoes.js)
 
 
 ## Exercícios
