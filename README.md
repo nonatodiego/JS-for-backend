@@ -4,10 +4,12 @@ Este repositório contém os materiais e exercícios do curso de JavaScript sobr
 
 ## Aulas
 
-- Variveis
-- Escopo
-- Tipo de Strings
-- Tipo de Números
+- [Variáveis](/w:/Alura/Js-tipos-variaveis-e-funcoes/variaveis.md)
+- [Escopo](/w:/Alura/Js-tipos-variaveis-e-funcoes/escopo.md)
+- [Tipo de Strings](/w:/Alura/Js-tipos-variaveis-e-funcoes/tipo-strings.md)
+- [Tipo de Números](/w:/Alura/Js-tipos-variaveis-e-funcoes/tipo-numeros.md)
+- [Tipo Boolean](/w:/Alura/Js-tipos-variaveis-e-funcoes/tipo-boolean.md)
+- [Tipo null e undefined](/w:/Alura/Js-tipos-variaveis-e-funcoes/tipo-null-e-undefined.md)
 
 
 ## Exercícios
