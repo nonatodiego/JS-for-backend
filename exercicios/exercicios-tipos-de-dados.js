@@ -23,7 +23,6 @@ let texto = "100";
 
 console.log(String(numero), Number(texto));
 
-// Crie uma variável com uma string e utilize métodos de manipulação de strings, como toUpperCase, toLowerCase, slice ou outros, para modificar a string original. Exiba os resultados finais no console.
-
+// Crie uma variável com uma string e utilize métodos de manipulação de strings, como toUpperCase, toLowerCase, slice ou outros, para modificar a string original. Exiba os resultados finais no console
 let vasco = "gigante da colina";
 console.log(vasco.toUpperCase())
